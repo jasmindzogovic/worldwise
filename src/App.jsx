@@ -2,7 +2,8 @@ import { BrowserRouter, Routes, Route } from "react-router-dom";
 import Homepage from "./pages/HomePages";
 import Product from "./pages/Product";
 import Pricing from "./pages/Pricing";
-import PageNotFound from "./pages/PageNotFound"
+import PageNotFound from "./pages/PageNotFound";
+import AppLayout from "./pages/AppLayout";
 
 function App() {
   return (
@@ -11,7 +12,8 @@ function App() {
         <Route path="/" element={<Homepage />} />
         <Route path="product" element={<Product />} />
         <Route path="pricing" element={<Pricing />} />
-        <Route path='*' element={<PageNotFound/>}/>
+        <Route path="*" element={<PageNotFound />} />
+        <Route path="/app" element={<AppLayout />} />
       </Routes>
     </BrowserRouter>
   );
