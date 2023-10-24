@@ -68,6 +68,11 @@ input:focus {
   border-radius: 5px;
 }
 
+.cta:hover {
+  background-color: #067e46;
+  transition: all .3s ease-in;
+}
+
 /*
 "importCSSModule": {
     "prefix": "csm",
