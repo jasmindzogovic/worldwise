@@ -35,6 +35,186 @@
         "lng": 13.376933665713324
       },
       "id": 98443197
+    },
+    {
+      "cityName": "Caspe",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2023-10-26T20:24:46.611Z",
+      "notes": "",
+      "position": {
+        "lat": "41.343824581185714",
+        "lng": "-0.13183593750000003"
+      },
+      "id": 98443198
+    },
+    {
+      "cityName": "Vegasdel Condado",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2023-10-26T20:27:36.114Z",
+      "notes": "",
+      "position": {
+        "lat": "42.68243539838623",
+        "lng": "-5.449218750000001"
+      },
+      "id": 98443199
+    },
+    {
+      "cityName": "Chaves",
+      "country": "Portugal",
+      "emoji": "🇵🇹",
+      "date": "2023-10-26T20:27:56.431Z",
+      "notes": "",
+      "position": {
+        "lat": "41.86956082699455",
+        "lng": "-7.207031250000001"
+      },
+      "id": 98443200
+    },
+    {
+      "cityName": "San Bartolome de Bejar",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2023-10-26T20:28:56.811Z",
+      "notes": "",
+      "position": {
+        "lat": "40.413496049701955",
+        "lng": "-5.6689453125"
+      },
+      "id": 98443201
+    },
+    {
+      "cityName": "San Bartolome de Bejar",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2023-10-26T20:28:56.811Z",
+      "notes": "",
+      "position": {
+        "lat": "40.413496049701955",
+        "lng": "-5.6689453125"
+      },
+      "id": 98443202
+    },
+    {
+      "cityName": "Santisteban del Puerto",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2023-10-26T20:28:56.811Z",
+      "notes": "",
+      "position": {
+        "lat": "38.30718056188316",
+        "lng": "-3.2080078125000004"
+      },
+      "id": 98443203
+    },
+    {
+      "cityName": "Santisteban del Puerto",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2023-10-26T20:28:56.811Z",
+      "notes": "",
+      "position": {
+        "lat": "38.30718056188316",
+        "lng": "-3.2080078125000004"
+      },
+      "id": 98443204
+    },
+    {
+      "cityName": "Santisteban del Puerto",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2023-10-26T20:28:56.811Z",
+      "notes": "",
+      "position": {
+        "lat": "38.30718056188316",
+        "lng": "-3.2080078125000004"
+      },
+      "id": 98443205
+    },
+    {
+      "cityName": "Berlanga",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2023-10-26T20:29:18.953Z",
+      "notes": "",
+      "position": {
+        "lat": "38.272688535980976",
+        "lng": "-5.844726562500001"
+      },
+      "id": 98443206
+    },
+    {
+      "cityName": "Foggaret Ezzaou",
+      "country": "Algeria",
+      "emoji": "🇩🇿",
+      "date": "2023-10-26T20:31:46.624Z",
+      "notes": "",
+      "position": {
+        "lat": "27.81316667120884",
+        "lng": "3.0615243315696716"
+      },
+      "id": 98443207
+    },
+    {
+      "cityName": "Murzuq",
+      "country": "Libya",
+      "emoji": "🇱🇾",
+      "date": "2023-10-26T20:37:07.760Z",
+      "notes": "",
+      "position": {
+        "lat": "26.352497858154024",
+        "lng": "18.193359375000004"
+      },
+      "id": 98443208
+    },
+    {
+      "cityName": "Shubra al Khaymah",
+      "country": "Egypt",
+      "emoji": "🇪🇬",
+      "date": "2023-10-26T20:37:26.875Z",
+      "notes": "",
+      "position": {
+        "lat": "30.14512718337613",
+        "lng": "31.289062500000004"
+      },
+      "id": 98443209
+    },
+    {
+      "cityName": "As Sukhnah",
+      "country": "Syrian Arab Republic (the)",
+      "emoji": "🇸🇾",
+      "date": "2023-10-26T20:40:03.103Z",
+      "notes": "",
+      "position": {
+        "lat": "34.452218472826566",
+        "lng": "39.72656250000001"
+      },
+      "id": 98443210
+    },
+    {
+      "cityName": "Paris",
+      "country": "France",
+      "emoji": "🇫🇷",
+      "date": "2023-10-26T20:40:19.561Z",
+      "notes": "",
+      "position": {
+        "lat": "48.83579746243093",
+        "lng": "2.3730468750000004"
+      },
+      "id": 98443211
+    },
+    {
+      "cityName": "Arnhem",
+      "country": "Netherlands (the)",
+      "emoji": "🇳🇱",
+      "date": "2023-10-26T20:42:05.119Z",
+      "notes": "",
+      "position": {
+        "lat": "51.998410382390325",
+        "lng": "5.888671875"
+      },
+      "id": 98443212
     }
   ]
 }
