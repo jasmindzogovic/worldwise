@@ -68,8 +68,6 @@ function CitiesProvider({ children }) {
       });
 
       setCities((cities) => cities.filter((city) => city.id !== id));
-
-      // setCurrentCity(data);
     } catch (error) {
       alert("There was an error deleting city");
     } finally {
