@@ -68,7 +68,7 @@ function Map() {
   );
 }
 
-export function ChangeCenter({ position }) {
+function ChangeCenter({ position }) {
   const map = useMap();
   map.setView(position);
   return null;
