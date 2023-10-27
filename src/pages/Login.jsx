@@ -16,7 +16,7 @@ export default function Login() {
 
   useEffect(() => {
     const check = () => {
-      if (isAuth === true) navigate("/app");
+      if (isAuth === true) navigate("/app", {replace: true});
     };
     check();
   }, [isAuth, navigate]);
