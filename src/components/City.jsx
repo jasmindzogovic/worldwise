@@ -5,7 +5,6 @@ import { useEffect } from "react";
 import styles from "./City.module.css";
 
 import Spinner from "./Spinner";
-import Button from "./Button";
 import BackButton from "./BackButton";
 
 const formatDate = (date) =>
@@ -22,7 +21,7 @@ function City() {
 
   useEffect(() => {
     getCity(id);
-  }, [id]);
+  }, [id, getCity]);
 
   const { cityName, emoji, date, notes } = currentCity;
 
