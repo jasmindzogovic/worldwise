@@ -19,11 +19,11 @@ function City() {
   const { id } = useParams();
   const { getCity, currentCity, isLoading } = useCities();
 
+  const { cityName, emoji, date, notes } = currentCity;
+
   useEffect(() => {
     getCity(id);
   }, [id, getCity]);
-
-  const { cityName, emoji, date, notes } = currentCity;
 
   return (
     <>
